@@ -1,0 +1,8 @@
+[package]
+name = "score_viewer"
+version = "0.1.0"
+authors = ["Bomou He <paakmau@outlook.com>"]
+edition = "2021"
+
+[dependencies]
+bevy = "0"
